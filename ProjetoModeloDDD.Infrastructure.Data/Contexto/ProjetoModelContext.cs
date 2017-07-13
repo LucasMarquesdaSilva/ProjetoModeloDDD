@@ -17,7 +17,7 @@ namespace ProjetoModeloDDD.Infrastructure.Data.Contexto
         }
 
         public DbSet<Cliente> Clientes { get; set; }
-
+        public DbSet<Produto> Produtos { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -35,7 +35,9 @@ namespace ProjetoModeloDDD.Infrastructure.Data.Contexto
             modelBuilder.Properties<string>()
                 .Configure(p => p.HasMaxLength(100));
             modelBuilder.Configurations.Add(new ClienteConfiguration());
-            
+            modelBuilder.Configurations.Add(new ProdutoConfiguration());
+
+
         }
 
         public override int SaveChanges()
