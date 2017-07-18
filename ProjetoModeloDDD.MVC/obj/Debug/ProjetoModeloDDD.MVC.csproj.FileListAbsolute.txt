@@ -112,3 +112,8 @@ C:\Users\lmarques\Documents\Estudos\DDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bi
 C:\Users\lmarques\Documents\Estudos\DDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csprojResolveAssemblyReference.cache
 C:\Users\lmarques\Documents\Estudos\DDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
 C:\Users\lmarques\Documents\Estudos\DDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.pdb
+C:\Users\lmarques\Documents\Estudos\DDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.Net4.dll
+C:\Users\lmarques\Documents\Estudos\DDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.dll
+C:\Users\lmarques\Documents\Estudos\DDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.dll
+C:\Users\lmarques\Documents\Estudos\DDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.pdb
+C:\Users\lmarques\Documents\Estudos\DDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.xml
