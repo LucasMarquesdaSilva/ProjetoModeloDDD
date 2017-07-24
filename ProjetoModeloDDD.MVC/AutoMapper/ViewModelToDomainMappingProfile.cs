@@ -14,7 +14,7 @@ namespace ProjetoModeloDDD.MVC.AutoMapper
         {
             get
             {
-                return "ViewModelToDomainMappings";
+                return "DomainToViewModelMappings";
             }
         }
 

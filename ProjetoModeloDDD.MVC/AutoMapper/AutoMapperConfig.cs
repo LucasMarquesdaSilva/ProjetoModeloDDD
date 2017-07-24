@@ -4,7 +4,7 @@ namespace ProjetoModeloDDD.MVC.AutoMapper
 {
     public class AutoMapperConfig
     {
-        public static void REgisterMappings()
+        public static void RegisterMappings()
         {
             Mapper.Initialize(x =>
             {
