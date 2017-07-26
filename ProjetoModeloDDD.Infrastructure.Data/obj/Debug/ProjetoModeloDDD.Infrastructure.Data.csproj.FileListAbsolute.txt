@@ -34,3 +34,15 @@ C:\Users\Lucas\Documents\Repositorios\ProjetoModeloDDD\ProjetoModeloDDD.Infrastr
 C:\Users\Lucas\Documents\Repositorios\ProjetoModeloDDD\ProjetoModeloDDD.Infrastructure.Data\obj\Debug\ProjetoModeloDDD.Infrastructure.Data.csprojResolveAssemblyReference.cache
 C:\Users\Lucas\Documents\Repositorios\ProjetoModeloDDD\ProjetoModeloDDD.Infrastructure.Data\obj\Debug\ProjetoModeloDDD.Infrastructure.Data.dll
 C:\Users\Lucas\Documents\Repositorios\ProjetoModeloDDD\ProjetoModeloDDD.Infrastructure.Data\obj\Debug\ProjetoModeloDDD.Infrastructure.Data.pdb
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infrastructure.Data\bin\Debug\ProjetoModeloDDD.Infrastructure.Data.dll.config
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infrastructure.Data\bin\Debug\ProjetoModeloDDD.Infrastructure.Data.dll
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infrastructure.Data\bin\Debug\ProjetoModeloDDD.Infrastructure.Data.pdb
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infrastructure.Data\bin\Debug\EntityFramework.dll
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infrastructure.Data\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infrastructure.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infrastructure.Data\bin\Debug\EntityFramework.xml
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infrastructure.Data\obj\Debug\ProjetoModeloDDD.Infrastructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infrastructure.Data\obj\Debug\ProjetoModeloDDD.Infrastructure.Data.dll
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infrastructure.Data\obj\Debug\ProjetoModeloDDD.Infrastructure.Data.pdb
