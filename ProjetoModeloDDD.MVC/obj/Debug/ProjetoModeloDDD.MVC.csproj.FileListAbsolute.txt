@@ -213,7 +213,6 @@ C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Mi
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.dll
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.dll
-C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infrastructure.Data.dll
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.dll
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.dll
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.dll
@@ -223,7 +222,6 @@ C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Sy
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.dll
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\WebGrease.dll
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.pdb
-C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infrastructure.Data.pdb
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.xml
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.xml
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.xml
@@ -245,3 +243,14 @@ C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ne
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csprojResolveAssemblyReference.cache
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.pdb
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Application.dll
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Application.pdb
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.dll
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.dll
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infrastructure.Data.dll
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\WebActivatorEx.dll
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infrastructure.Data.pdb
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.xml
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.xml
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Mvc.xml

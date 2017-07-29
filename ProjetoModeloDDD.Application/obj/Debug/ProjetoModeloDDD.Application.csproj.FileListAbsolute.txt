@@ -18,3 +18,5 @@ C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Applicatio
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojResolveAssemblyReference.cache
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
 C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\lmarques\Documents\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.pdb
